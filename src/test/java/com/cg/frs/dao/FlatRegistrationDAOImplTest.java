@@ -17,7 +17,7 @@ class FlatRegistrationDAOImplTest {
 	public static void init() {
 		flatRegistrationDAOImpl = new FlatRegistrationDAOImpl();
 	}
-	//@Test
+	@Test
 	void testRegisterFlat() {
 		FlatRegistrationDTO flat = new FlatRegistrationDTO();
 		FlatRegistrationDTO flat1 = new FlatRegistrationDTO();

@@ -3,11 +3,11 @@ package com.cg.frs.ui;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import com.cg.fra.exceptions.InvalidDepositException;
-import com.cg.fra.exceptions.InvalidFlatAreaException;
-import com.cg.fra.exceptions.InvalidFlatTypeException;
-import com.cg.fra.exceptions.InvalidOwnerIdException;
-import com.cg.fra.exceptions.InvalidRentException;
+import com.cg.frs.exceptions.InvalidDepositException;
+import com.cg.frs.exceptions.InvalidFlatAreaException;
+import com.cg.frs.exceptions.InvalidFlatTypeException;
+import com.cg.frs.exceptions.InvalidOwnerIdException;
+import com.cg.frs.exceptions.InvalidRentException;
 import com.cg.frs.dto.FlatRegistrationDTO;
 import com.cg.frs.service.FlatRegistrationServiceImpl;
 import com.cg.frs.service.IFlatRegistrationService;
